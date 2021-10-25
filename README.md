@@ -1,6 +1,6 @@
 ### Screenshot
 
-![](logo.svg)
+![](carousel.png)
 
 ### Links
 
